@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236899969950",
+    "firebase_url": "https://visa-2ad3c.firebaseio.com",
+    "project_id": "visa-2ad3c",
+    "storage_bucket": "visa-2ad3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236899969950:android:9c468895c8ee5e5a83848f",
+        "android_client_info": {
+          "package_name": "com.example.visa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236899969950-acfjto5efbu913et64kuhqddrofillhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visa",
+            "certificate_hash": "4d0aacccd219fb0db6b472d4938df20670f39473"
+          }
+        },
+        {
+          "client_id": "236899969950-v9bt74k7klet38btvsuqgpie6fo6pdbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVGqlnGA4RXrwBJaiaC_Pc-81Wa768C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236899969950-v9bt74k7klet38btvsuqgpie6fo6pdbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
